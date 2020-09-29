@@ -30,3 +30,5 @@ title: Orleans Presentations
 -   [Orleans与YAMS-虚拟聚会＃9第2部分-2016年2月](http://dotnet.github.io/orleans/Presentations/VM-9%20-%20Part.2%20Orleans-with-YAMS.pptx)
 
 -   [与Orleans一起走进分布式系统园](http://dotnet.github.io/orleans/Presentations/(FWDAYSKIEV2016)%20Walk.In.Distributed.Systems.Park.With.Orleans.pptx)
+
+-   [微软之Orleans-Reuben Bond在Youtube上的Orleans的介绍视频-2020年8月4日](https://www.youtube.com/watch?v=KhgYlvGLv9c)
